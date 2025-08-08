@@ -13,7 +13,8 @@ public:
                 x /= 10;
             }
              if(newnum == num)
-                  
+             return true;
+                      
         }
     }
 };
