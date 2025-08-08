@@ -14,7 +14,8 @@ public:
             }
              if(newnum == num)
              return true;
-                      
+             else
+                         
         }
     }
 };
