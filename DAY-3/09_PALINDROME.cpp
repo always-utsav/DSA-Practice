@@ -12,10 +12,7 @@ public:
                 newnum=(newnum*10) + rem;
                 x /= 10;
             }
-               if(newnum == num)
-                return true;
-                else
-                return false; 
+               
         }
     }
 };
